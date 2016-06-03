@@ -1,0 +1,13 @@
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\obj\x86\Debug\MCT_GL_Application.UI_FORMS.frmDisplayPositionDetails.resources
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\obj\x86\Debug\MCT_GL_Application.UI_FORMS.Validation.resources
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\obj\x86\Debug\MCT_GL_Application.UI_FORMS.frmFileUpload.resources
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\obj\x86\Debug\MCT_GL_Application.Properties.Resources.resources
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\obj\x86\Debug\MCT_GL_Application.csproj.GenerateResource.Cache
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\bin\Debug\MCT_GL_Application.exe.config
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\bin\Debug\MCT_GL_Application.exe
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\bin\Debug\MCT_GL_Application.pdb
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\obj\x86\Debug\MCT_GL_Application.exe
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\obj\x86\Debug\MCT_GL_Application.pdb
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\obj\x86\Debug\MCT_GL_Application.UI_FORMS.frmDisplayRawGLRecords.resources
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\obj\x86\Debug\MCT_GL_Application.UI_FORMS.frmShowGLRecord.resources
+G:\RFR\SAGE\C# file Uploader\MCT_GL_Application\MCT_GL_Application\obj\x86\Debug\MCT_GL_Application.csprojResolveAssemblyReference.cache

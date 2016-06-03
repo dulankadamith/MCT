@@ -1,0 +1,10 @@
+G:\RFR\SAGE\C# file Uploader\Text_File_Reader\Text_File_Reader\bin\Debug\Text_File_Reader.exe.config
+G:\RFR\SAGE\C# file Uploader\Text_File_Reader\Text_File_Reader\bin\Debug\Text_File_Reader.exe
+G:\RFR\SAGE\C# file Uploader\Text_File_Reader\Text_File_Reader\bin\Debug\Text_File_Reader.pdb
+G:\RFR\SAGE\C# file Uploader\Text_File_Reader\Text_File_Reader\obj\x86\Debug\Text_File_Reader.exe
+G:\RFR\SAGE\C# file Uploader\Text_File_Reader\Text_File_Reader\obj\x86\Debug\Text_File_Reader.pdb
+G:\RFR\SAGE\C# file Uploader\Text_File_Reader\Text_File_Reader\obj\x86\Debug\Text_File_Reader.csprojResolveAssemblyReference.cache
+G:\RFR\SAGE\C# file Uploader\Text_File_Reader\Text_File_Reader\bin\Debug\Renci.SshNet.pdb
+G:\RFR\SAGE\C# file Uploader\Text_File_Reader\Text_File_Reader\bin\Debug\Renci.SshNet.xml
+G:\RFR\SAGE\C# file Uploader\Text_File_Reader\Text_File_Reader\obj\x86\Debug\Text_File_Reader.UI_Forms.RawFileUploader.resources
+G:\RFR\SAGE\C# file Uploader\Text_File_Reader\Text_File_Reader\obj\x86\Debug\Text_File_Reader.csproj.GenerateResource.Cache
